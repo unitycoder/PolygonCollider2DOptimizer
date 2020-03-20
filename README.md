@@ -6,7 +6,7 @@ You can follow and report issues here https://github.com/unitycoder/PolygonColli
 https://forum.unity.com/threads/released-polygoncollider2d-optimizer.240534/
 
 ## Asset Store
-https://www.assetstore.unity3d.com/#!/content/16605?aid=1101lGti
+https://assetstore.unity.com/packages/tools/sprite-management/polygoncollider2d-optimizer-16605?aid=1101lGti
 
 ## Website
 http://unitycoder.com/blog/2014/03/30/asset-store-polygoncollider2d-optimizer/
